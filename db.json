@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Bill Gates",
+      "telefono": "4324",
+      "correo": "bill@yahoo.com",
+      "empresa": "Microsoft",
+      "id": 2
+    },
+    {
+      "nombre": "Actualizado",
+      "telefono": "Dgdg",
+      "correo": "Hehe",
+      "empresa": "Dhd",
+      "id": 7
+    },
+    {
+      "nombre": "Ttt",
+      "telefono": "Tete",
+      "correo": "Wte",
+      "empresa": "Hdhe",
+      "id": 8
+    },
+    {
+      "nombre": "Hdh",
+      "telefono": "Dge",
+      "correo": "Dhe",
+      "empresa": "Gde",
+      "id": 9
+    },
+    {
+      "nombre": "Hdyrfhhryry y ",
+      "telefono": "Fhr",
+      "correo": "Dge",
+      "empresa": "Dge",
+      "id": 10
+    }
+  ]
+}
